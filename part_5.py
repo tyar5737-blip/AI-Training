@@ -22,3 +22,5 @@ elif marks >=40:
     
 else:
     print("Fail")
+    
+    
